@@ -5,7 +5,7 @@ Welcome to my **Hibernate Practice Hub** — a curated collection of projects wh
 Whether you're revising Hibernate for interviews or building a strong foundation in ORM, this repo is designed to be a **hands‑on reference**.
 
 ---
-
+ 
 ## 📂 Project Modules
 Each module demonstrates a specific mapping concept with practical examples:
 
